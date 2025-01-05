@@ -10,6 +10,6 @@
 		<!-- 创建一个文本按钮（Text Button），只显示文字，没有背景颜色或边框 -->
 		<a-button type="text">文本按钮</a-button>
 		<!-- 创建一个链接按钮（Link Button），外观像链接，可以用来替代 <a> 标签 -->
-		<a-button type="link">链接按钮</a-button>
+		<a-button type="outline">线形按钮</a-button>
 	</a-space>
 </template>
